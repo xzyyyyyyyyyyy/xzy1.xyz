@@ -64,12 +64,12 @@ export const profileConfig: ProfileConfig = {
 			url: "https://qm.qq.com/q/RPolvI8fWm",
 		},
 		{
-			name: "telegram",
+			name: "Telegram",
 			icon: "fa6-brands:telegram",
-			url: "t.me/iiiixzy",
+			url: "https://t.me/iiiixzy",
 		},
 		{
-			name: "GitHub",
+			name: : "GitHub",,
 			icon: "fa6-brands:github",
 			url: "https://github.com/xzyyyyyyyyyyy",
 		},
