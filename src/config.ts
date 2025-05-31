@@ -69,7 +69,7 @@ export const profileConfig: ProfileConfig = {
 			url: "https://t.me/iiiixzy",
 		},
 		{
-			name: : "GitHub",,
+			name:  "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/xzyyyyyyyyyyy",
 		},
